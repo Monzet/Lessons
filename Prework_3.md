@@ -14,10 +14,6 @@ Esta serie en particular es para principiantes de Python. Aprenderás los siguie
 
 4. Funciones y diccionarios.
 
-Todo el tutorial es 👆 interactivo, ✅ calificado automáticamente, y con 📹 video tutoriales.
-
-
-¡Te necesitamos! Estos ejercicios se crean y mantienen con colaboradores como tú. Si encuentras algún error o falta de ortografía, contribuye y/o infórmanos.
 
 <!-- hide -->
 
